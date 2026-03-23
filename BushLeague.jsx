@@ -1,8 +1,3 @@
-bash
-
-cat /home/claude/BushLeague.jsx
-Output
-
 import { useState, useMemo } from "react";
 import { FRANCHISES, SEASONS, TRADES } from "./data.js";
 import { DRAFTS } from "./drafts.js";
@@ -732,4 +727,3 @@ export default function App() {
     </div>
   );
 }
-Done
