@@ -409,7 +409,7 @@ export const SEASONS = [
 
 // ── TRADE HISTORY ──
 // Add trades here as you remember them.
-export const TRADES = [export const TRADES = [
+export const TRADES = [
   {
     id: "trade_002", year: 2025, week: 11,
     sideA: { franchise: "Brian Company", gave: ["Courtland Sutton"], received: ["Jordan Addison"] },
@@ -860,4 +860,4 @@ export const TRADES = [export const TRADES = [
     sideB: { franchise: "Here Comes the Boom", gave: ["Greg Olsen"], received: ["Jason Witten", "Jarvis Landry"] },
     winner: null, shame: false, verdict: "",
   },
-];];
+];
